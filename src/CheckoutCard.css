@@ -1,0 +1,25 @@
+.checkout-card {
+  display: flex;
+}
+
+.checkout-img {
+  margin: 5px;
+  width: 20%;
+  height: 20%;
+}
+
+.checkout-rating {
+  display: flex;
+}
+
+button {
+  border-radius: 8px;
+  background-color: #ffd814;
+  border-style: none;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+.checkout-title {
+  border-style: none;
+}
